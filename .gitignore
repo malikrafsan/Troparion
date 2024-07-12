@@ -3,3 +3,5 @@
 *.pkf
 
 *.asv
+
+extract/result/*.json
